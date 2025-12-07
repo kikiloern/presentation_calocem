@@ -1,0 +1,256 @@
+,Date,Operator,Number,Retarder,Dosage,[mmol/L],mg retarder/g cement,Cement_plant,cement_type,Comment,Category,file
+0,2022-10-10,JAA,122,Reference,0,[mmol/L],0.0,Bernburg,CEM I 42.5R,,Reference,JAA_CAL122
+1,2022-10-10,JAA,123,Etidronic acid,50,[mmol/L],5.15,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL123
+2,2022-10-10,JAA,124,Etidronic acid,100,[mmol/L],10.3,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL124
+3,2022-10-10,JAA,125,Etidronic acid,150,[mmol/L],15.45,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL125
+4,2022-10-10,JAA,126,Etidronic acid,200,[mmol/L],20.6,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL126
+5,2022-10-10,JAA,127,Etidronic acid,250,[mmol/L],25.75,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL127
+6,2022-10-10,JAA,128,Etidronic acid,300,[mmol/L],30.9,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL128
+7,2022-10-10,JAA,129,Etidronic acid,350,[mmol/L],36.05,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL129
+8,2022-10-14,JAA,130,Reference,0,[mmol/L],0.0,Bernburg,CEM I 42.5R,,Reference,JAA_CAL130
+9,2022-10-14,JAA,131,Glucose,2,[mmol/L],0.18016,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL131
+10,2022-10-14,JAA,132,Glucose,4,[mmol/L],0.36032,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL132
+11,2022-10-14,JAA,133,Glucose,6,[mmol/L],0.54048,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL133
+12,2022-10-14,JAA,134,Glucose,8,[mmol/L],0.72064,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL134
+13,2022-10-14,JAA,135,Glucose,10,[mmol/L],0.9008,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL135
+14,2022-10-14,JAA,136,Glucose,12,[mmol/L],1.08096,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL136
+15,2022-10-14,JAA,137,Glucose,14,[mmol/L],1.26112,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL137
+16,2022-10-15,JAA,138,Reference,0,[mmol/L],0.0,Bernburg,CEM I 42.5R,,Reference,JAA_CAL138
+17,2022-10-15,JAA,139,Etidronic acid,2,[mmol/L],0.20603,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL139
+18,2022-10-15,JAA,140,Etidronic acid,4,[mmol/L],0.41206,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL140
+19,2022-10-15,JAA,141,Etidronic acid,6,[mmol/L],0.61809,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL141
+20,2022-10-15,JAA,142,Etidronic acid,8,[mmol/L],0.82412,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL142
+21,2022-10-15,JAA,143,Etidronic acid,10,[mmol/L],1.03015,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL143
+22,2022-10-15,JAA,144,Etidronic acid,12,[mmol/L],1.23618,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL144
+23,2022-10-15,JAA,145,Etidronic acid,14,[mmol/L],1.44221,Bernburg,CEM I 42.5R,,Phosphonate,JAA_CAL145
+24,2022-10-18,JAA,146,Sucrose,2,[mmol/L],0.3423,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL146
+25,2022-10-18,JAA,147,Sucrose,4,[mmol/L],0.6846,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL147
+26,2022-10-18,JAA,148,Sucrose,6,[mmol/L],1.0269,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL148
+27,2022-10-18,JAA,149,Sucrose,8,[mmol/L],1.3692,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL149
+28,2022-10-18,JAA,150,Sucrose,10,[mmol/L],1.7115,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL150
+29,2022-10-18,JAA,151,Sucrose,12,[mmol/L],2.0538,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL151
+30,2022-10-18,JAA,152,Sucrose,14,[mmol/L],2.3961,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL152
+31,2022-11-08,JAA,201,Phenol,2,[mmol/L],0.09411,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL201
+32,2022-11-08,JAA,202,Phenol,6,[mmol/L],0.28233,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL202
+33,2022-11-08,JAA,203,Phenol,10,[mmol/L],0.47055,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL203
+34,2022-11-08,JAA,204,Phenol,14,[mmol/L],0.65877,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL204
+35,2022-11-08,JAA,205,DL Tartaric acid,2,[mmol/L],0.15009,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL205
+36,2022-11-08,JAA,206,DL Tartaric acid,6,[mmol/L],0.45027,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL206
+37,2022-11-08,JAA,207,DL Tartaric acid,10,[mmol/L],0.75045,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL207
+38,2022-11-08,JAA,208,DL Tartaric acid,14,[mmol/L],1.05063,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL208
+39,2022-11-08,JAA,209,D Tartaric acid,2,[mmol/L],0.15009,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL209
+40,2022-11-08,JAA,210,D Tartaric acid,6,[mmol/L],0.45027,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL210
+41,2022-11-08,JAA,211,D Tartaric acid,10,[mmol/L],0.75045,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL211
+42,2022-11-08,JAA,212,D Tartaric acid,14,[mmol/L],1.05063,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL212
+43,2022-11-08,JAA,213,L Tartaric acid,2,[mmol/L],0.15009,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL213
+44,2022-11-08,JAA,214,L Tartaric acid,6,[mmol/L],0.45027,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL214
+45,2022-11-08,JAA,215,L Tartaric acid,10,[mmol/L],0.75045,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL215
+46,2022-11-08,JAA,216,L Tartaric acid,14,[mmol/L],1.05063,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL216
+47,2022-11-11,JAA,217,Catechol,2,[mmol/L],0.1101,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL217
+48,2022-11-11,JAA,218,Catechol,6,[mmol/L],0.3303,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL218
+49,2022-11-11,JAA,219,Catechol,10,[mmol/L],0.5505,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL219
+50,2022-11-11,JAA,220,Catechol,14,[mmol/L],0.7707,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL220
+51,2022-11-11,JAA,221,Malic acid,2,[mmol/L],0.13409,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL221
+52,2022-11-11,JAA,222,Malic acid,6,[mmol/L],0.40227,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL222
+53,2022-11-11,JAA,223,Malic acid,10,[mmol/L],0.67045,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL223
+54,2022-11-11,JAA,224,Malic acid,14,[mmol/L],0.93863,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL224
+55,2022-11-12,JAA,225,Salicylic acid,2,[mmol/L],0.13812,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL225
+56,2022-11-12,JAA,226,Salicylic acid,6,[mmol/L],0.41436,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL226
+57,2022-11-12,JAA,227,Salicylic acid,10,[mmol/L],0.6906,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL227
+58,2022-11-12,JAA,228,Salicylic acid,14,[mmol/L],0.96684,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL228
+59,2022-11-12,JAA,229,Benzoic acid,2,[mmol/L],0.12212,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL229
+60,2022-11-12,JAA,230,Benzoic acid,6,[mmol/L],0.36636,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL230
+61,2022-11-12,JAA,231,Benzoic acid,10,[mmol/L],0.6106,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL231
+62,2022-11-12,JAA,232,Benzoic acid,14,[mmol/L],0.85484,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL232
+63,2023-01-17,JAA,233,Citric acid,2,[mmol/L],0.19212,Bernburg,CEM I 42.5R,Repeat,hydroxy_carboxylic,JAA_CAL233
+64,2023-01-17,JAA,234,Citric acid,6,[mmol/L],0.57636,Bernburg,CEM I 42.5R,Repeat,hydroxy_carboxylic,JAA_CAL234
+65,2023-01-17,JAA,235,Citric acid,10,[mmol/L],0.9606,Bernburg,CEM I 42.5R,Repeat,hydroxy_carboxylic,JAA_CAL235
+66,2023-01-17,JAA,236,Citric acid,14,[mmol/L],1.34484,Bernburg,CEM I 42.5R,Repeat,hydroxy_carboxylic,JAA_CAL236
+67,2023-01-17,JAA,237,Formic acid,2,[mmol/L],0.04603,Bernburg,CEM I 42.5R,Repeat,carboxylic,JAA_CAL237
+68,2023-01-17,JAA,238,Formic acid,6,[mmol/L],0.13809,Bernburg,CEM I 42.5R,Repeat,carboxylic,JAA_CAL238
+69,2023-01-17,JAA,239,Formic acid,10,[mmol/L],0.23015,Bernburg,CEM I 42.5R,Repeat,carboxylic,JAA_CAL239
+70,2023-01-17,JAA,240,Formic acid,14,[mmol/L],0.32221,Bernburg,CEM I 42.5R,Repeat,carboxylic,JAA_CAL240
+71,2023-01-23,JAA,241,Oxalic acid,2,[mmol/L],0.09003,Bernburg,CEM I 42.5R,Repeat,carboxylic,JAA_CAL241
+72,2023-01-23,JAA,242,Oxalic acid,6,[mmol/L],0.27009,Bernburg,CEM I 42.5R,Repeat,carboxylic,JAA_CAL242
+73,2023-01-23,JAA,243,Oxalic acid,10,[mmol/L],0.45015,Bernburg,CEM I 42.5R,Repeat,carboxylic,JAA_CAL243
+74,2023-01-23,JAA,244,Oxalic acid,14,[mmol/L],0.63021,Bernburg,CEM I 42.5R,Repeat,carboxylic,JAA_CAL244
+75,2023-01-23,JAA,245,DL Lactic acid,2,[mmol/L],0.09008,Bernburg,CEM I 42.5R,Repeat,alpha hydroxy carboxylic,JAA_CAL245
+76,2023-01-23,JAA,246,DL Lactic acid,6,[mmol/L],0.27024,Bernburg,CEM I 42.5R,Repeat,alpha hydroxy carboxylic,JAA_CAL246
+77,2023-01-23,JAA,247,DL Lactic acid,10,[mmol/L],0.4504,Bernburg,CEM I 42.5R,Repeat,alpha hydroxy carboxylic,JAA_CAL247
+78,2023-01-23,JAA,248,DL Lactic acid,14,[mmol/L],0.63056,Bernburg,CEM I 42.5R,Repeat,alpha hydroxy carboxylic,JAA_CAL248
+79,2023-01-26,JAA,249,Glycolic acid,2,[mmol/L],0.07605,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL249
+80,2023-01-26,JAA,250,Glycolic acid,6,[mmol/L],0.22815,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL250
+81,2023-01-26,JAA,251,Glycolic acid,10,[mmol/L],0.38025,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL251
+82,2023-01-26,JAA,252,Glycolic acid,14,[mmol/L],0.53235,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL252
+83,2023-01-26,JAA,253,D Fructose,2,[mmol/L],0.18016,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL253
+84,2023-01-26,JAA,254,D Fructose,6,[mmol/L],0.54048,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL254
+85,2023-01-26,JAA,255,D Fructose,10,[mmol/L],0.9008,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL255
+86,2023-01-26,JAA,256,D Fructose,14,[mmol/L],1.26112,Bernburg,CEM I 42.5R,,Sugar,JAA_CAL256
+87,2023-01-30,JAA,257,Citric acid,2,[mmol/L],0.19212,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL257
+88,2023-01-30,JAA,258,Citric acid,6,[mmol/L],0.57636,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL258
+89,2023-01-30,JAA,259,Citric acid,10,[mmol/L],0.9606,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL259
+90,2023-01-30,JAA,260,Citric acid,14,[mmol/L],1.34484,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL260
+91,2023-01-30,JAA,261,Formic acid,2,[mmol/L],0.04603,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL261
+92,2023-01-30,JAA,262,Formic acid,6,[mmol/L],0.13809,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL262
+93,2023-01-30,JAA,263,Formic acid,10,[mmol/L],0.23015,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL263
+94,2023-01-30,JAA,264,Formic acid,14,[mmol/L],0.32221,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL264
+95,2023-02-03,JAA,265,Oxalic acid,2,[mmol/L],0.09003,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL265
+96,2023-02-03,JAA,266,Oxalic acid,6,[mmol/L],0.27009,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL266
+97,2023-02-03,JAA,267,Oxalic acid,10,[mmol/L],0.45015,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL267
+98,2023-02-03,JAA,268,Oxalic acid,14,[mmol/L],0.63021,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL268
+99,2023-02-03,JAA,269,DL Lactic acid,2,[mmol/L],0.09008,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL269
+100,2023-02-03,JAA,270,DL Lactic acid,6,[mmol/L],0.27024,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL270
+101,2023-02-03,JAA,271,DL Lactic acid,10,[mmol/L],0.4504,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL271
+102,2023-02-03,JAA,272,DL Lactic acid,14,[mmol/L],0.63056,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL272
+103,2023-02-06,JAA,273,Pyrogallol,2,[mmol/L],0.12611,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL273
+104,2023-02-06,JAA,274,Pyrogallol,6,[mmol/L],0.37833,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL274
+105,2023-02-06,JAA,275,Pyrogallol,10,[mmol/L],0.63055,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL275
+106,2023-02-06,JAA,276,Pyrogallol,14,[mmol/L],0.88277,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL276
+107,2023-02-06,JAA,277,Gallic acid,2,[mmol/L],0.1576375,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL277
+108,2023-02-06,JAA,278,Gallic acid,6,[mmol/L],0.4729125,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL278
+109,2023-02-06,JAA,279,Gallic acid,10,[mmol/L],0.7881875,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL279
+110,2023-02-06,JAA,280,Gallic acid,14,[mmol/L],1.1034625,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL280
+111,2023-02-10,JAA,281,Succinic acid,2,[mmol/L],0.197046875,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL281
+112,2023-02-10,JAA,282,Succinic acid,6,[mmol/L],0.591140625,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL282
+113,2023-02-10,JAA,283,Succinic acid,10,[mmol/L],0.985234375,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL283
+114,2023-02-10,JAA,284,Succinic acid,14,[mmol/L],1.379328125,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL284
+115,2023-02-10,JAA,285,Malonic acid,2,[mmol/L],0.24630859375,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL285
+116,2023-02-10,JAA,286,Malonic acid,6,[mmol/L],0.73892578125,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL286
+117,2023-02-10,JAA,287,Malonic acid,10,[mmol/L],1.23154296875,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL287
+118,2023-02-10,JAA,288,Malonic acid,14,[mmol/L],1.72416015625,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL288
+119,2023-02-13,JAA,289,Hydroquinone,2,[mmol/L],0.3078857421875,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL289
+120,2023-02-13,JAA,290,Hydroquinone,6,[mmol/L],0.9236572265625,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL290
+121,2023-02-13,JAA,291,Hydroquinone,10,[mmol/L],1.5394287109375,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL291
+122,2023-02-13,JAA,292,Hydroquinone,14,[mmol/L],2.1552001953125,Bernburg,CEM I 42.5R,,Aromatic Alcohol,JAA_CAL292
+123,2023-02-13,JAA,293,L Tartaric acid,40,[mmol/L],3.0018,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL293
+124,2023-02-13,JAA,294,L Tartaric acid,50,[mmol/L],3.75225,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL294
+125,2023-02-13,JAA,295,L Tartaric acid,60,[mmol/L],4.5027,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL295
+126,2023-02-13,JAA,296,L Tartaric acid,120,[mmol/L],9.0054,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL296
+127,2023-03-02,JAA,297,L Tartaric acid,0,[mmol/L],0.0,Hannover,CEM I 42.5R,PC abgestürzt,alpha hydroxy carboxylic,JAA_CAL297
+128,2023-03-02,JAA,298,L Tartaric acid,2,[mmol/L],0.15009,Hannover,CEM I 42.5R,PC abgestürzt,alpha hydroxy carboxylic,JAA_CAL298
+129,2023-03-02,JAA,299,L Tartaric acid,6,[mmol/L],0.45027,Hannover,CEM I 42.5R,PC abgestürzt,alpha hydroxy carboxylic,JAA_CAL299
+130,2023-03-02,JAA,300,L Tartaric acid,10,[mmol/L],0.75045,Hannover,CEM I 42.5R,PC abgestürzt,alpha hydroxy carboxylic,JAA_CAL300
+131,2023-03-02,JAA,301,L Tartaric acid,14,[mmol/L],1.05063,Hannover,CEM I 42.5R,PC abgestürzt,alpha hydroxy carboxylic,JAA_CAL301
+132,2023-03-02,JAA,302,L Tartaric acid,40,[mmol/L],3.0018,Hannover,CEM I 42.5R,PC abgestürzt,alpha hydroxy carboxylic,JAA_CAL302
+133,2023-03-02,JAA,303,L Tartaric acid,50,[mmol/L],3.75225,Hannover,CEM I 42.5R,PC abgestürzt,alpha hydroxy carboxylic,JAA_CAL303
+134,2023-03-02,JAA,304,L Tartaric acid,60,[mmol/L],4.5027,Hannover,CEM I 42.5R,PC abgestürzt,alpha hydroxy carboxylic,JAA_CAL304
+135,2023-03-07,JAA,305,L Tartaric acid,0,[mmol/L],0.0,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL305
+136,2023-03-07,JAA,306,L Tartaric acid,2,[mmol/L],0.15009,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL306
+137,2023-03-07,JAA,307,L Tartaric acid,6,[mmol/L],0.45027,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL307
+138,2023-03-07,JAA,308,L Tartaric acid,10,[mmol/L],0.75045,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL308
+139,2023-03-07,JAA,309,L Tartaric acid,14,[mmol/L],1.05063,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL309
+140,2023-03-07,JAA,310,L Tartaric acid,40,[mmol/L],3.0018,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL310
+141,2023-03-07,JAA,311,L Tartaric acid,50,[mmol/L],3.75225,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL311
+142,2023-03-07,JAA,312,L Tartaric acid,60,[mmol/L],4.5027,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL312
+143,2023-05-09,JAA,313,Potassium gluconate,2,[mmol/L],0.23425,Bernburg,CEM I 42.5R,,sugar acid,JAA_CAL313
+144,2023-05-09,JAA,314,Potassium gluconate,6,[mmol/L],0.70275,Bernburg,CEM I 42.5R,,sugar acid,JAA_CAL314
+145,2023-05-09,JAA,315,Potassium gluconate,10,[mmol/L],1.17125,Bernburg,CEM I 42.5R,,sugar acid,JAA_CAL315
+146,2023-05-09,JAA,316,Potassium gluconate,14,[mmol/L],1.63975,Bernburg,CEM I 42.5R,,sugar acid,JAA_CAL316
+147,2023-05-09,JAA,317,Sodium gluconate,2,[mmol/L],0.21814,Bernburg,CEM I 42.5R,,sugar acid,JAA_CAL317
+148,2023-05-09,JAA,318,Sodium gluconate,6,[mmol/L],0.65442,Bernburg,CEM I 42.5R,,sugar acid,JAA_CAL318
+149,2023-05-09,JAA,319,Sodium gluconate,10,[mmol/L],1.0907,Bernburg,CEM I 42.5R,,sugar acid,JAA_CAL319
+150,2023-05-09,JAA,320,Sodium gluconate,14,[mmol/L],1.52698,Bernburg,CEM I 42.5R,,sugar acid,JAA_CAL320
+151,2023-05-16,JAA,321,Crotonic acid,2,[mmol/L],0.08603,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL321
+152,2023-05-16,JAA,322,Crotonic acid,6,[mmol/L],0.25809,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL322
+153,2023-05-16,JAA,323,Crotonic acid,10,[mmol/L],0.43015,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL323
+154,2023-05-16,JAA,324,Crotonic acid,14,[mmol/L],0.60221,Bernburg,CEM I 42.5R,,carboxylic,JAA_CAL324
+155,2023-05-16,JAA,325,Glyoxylic acid,2,[mmol/L],0.074,Bernburg,CEM I 42.5R,,keto carboxylic,JAA_CAL325
+156,2023-05-16,JAA,326,Glyoxylic acid,6,[mmol/L],0.222,Bernburg,CEM I 42.5R,,keto carboxylic,JAA_CAL326
+157,2023-05-16,JAA,327,Glyoxylic acid,10,[mmol/L],0.37,Bernburg,CEM I 42.5R,,keto carboxylic,JAA_CAL327
+158,2023-05-16,JAA,328,Glyoxylic acid,14,[mmol/L],0.518,Bernburg,CEM I 42.5R,,keto carboxylic,JAA_CAL328
+159,2023-05-24,JAA,329,Trisodium Citrate,2,[mmol/L],0.25806,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL329
+160,2023-05-24,JAA,330,Trisodium Citrate,6,[mmol/L],0.77418,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL330
+161,2023-05-24,JAA,331,Trisodium Citrate,10,[mmol/L],1.2903,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL331
+162,2023-05-24,JAA,332,Trisodium Citrate,14,[mmol/L],1.80642,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL332
+163,2023-05-24,JAA,333,Tripotassium Citrate,2,[mmol/L],0.306395,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL333
+164,2023-05-24,JAA,334,Tripotassium Citrate,6,[mmol/L],0.919185,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL334
+165,2023-05-24,JAA,335,Tripotassium Citrate,10,[mmol/L],1.531975,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL335
+166,2023-05-24,JAA,336,Tripotassium Citrate,14,[mmol/L],2.144765,Bernburg,CEM I 42.5R,,hydroxy_carboxylic,JAA_CAL336
+167,2023-05-31,JAA,337,Reference,0,[mmol/L],0.0,Mergelstetten,CEM I 52.5N,,,JAA_CAL337
+168,2023-05-31,JAA,338,Reference,0,[mmol/L],0.0,Mergelstetten,CEM I 52.5N,,,JAA_CAL338
+169,2023-05-31,JAA,339,Citric acid,2,[mmol/L],0.19212,Mergelstetten,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL339
+170,2023-05-31,JAA,340,Citric acid,6,[mmol/L],0.57636,Mergelstetten,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL340
+171,2023-05-31,JAA,341,Citric acid,10,[mmol/L],0.9606,Mergelstetten,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL341
+172,2023-05-31,JAA,342,Citric acid,14,[mmol/L],1.34484,Mergelstetten,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL342
+173,2023-05-31,JAA,343,Citric acid,18,[mmol/L],1.72908,Mergelstetten,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL343
+174,2023-05-31,JAA,344,Citric acid,22,[mmol/L],2.11332,Mergelstetten,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL344
+175,2023-06-06,JAA,345,Reference,0,[mmol/L],0.0,Karlstadt,CEM I 52.5N,,,JAA_CAL345
+176,2023-06-06,JAA,346,Reference,0,[mmol/L],0.0,Karlstadt,CEM I 52.5N,,,JAA_CAL346
+177,2023-06-06,JAA,347,Citric acid,2,[mmol/L],0.19212,Karlstadt,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL347
+178,2023-06-06,JAA,348,Citric acid,6,[mmol/L],0.57636,Karlstadt,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL348
+179,2023-06-06,JAA,349,Citric acid,10,[mmol/L],0.9606,Karlstadt,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL349
+180,2023-06-06,JAA,350,Citric acid,14,[mmol/L],1.34484,Karlstadt,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL350
+181,2023-06-06,JAA,351,Citric acid,18,[mmol/L],1.72908,Karlstadt,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL351
+182,2023-06-06,JAA,352,Citric acid,22,[mmol/L],2.11332,Karlstadt,CEM I 52.5N,,hydroxy_carboxylic,JAA_CAL352
+183,2023-06-06,JAA,353,Glyoxylic acid,20,[mmol/L],0.74,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL353
+184,2023-06-06,JAA,354,Glyoxylic acid,30,[mmol/L],1.11,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL354
+185,2023-06-06,JAA,355,Glyoxylic acid,40,[mmol/L],1.48,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL355
+186,2023-06-06,JAA,356,Glyoxylic acid,60,[mmol/L],2.22,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL356
+187,2023-06-06,JAA,357,Glyoxylic acid,80,[mmol/L],2.96,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL357
+188,2023-06-06,JAA,358,Glyoxylic acid,100,[mmol/L],3.7,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL358
+189,2023-06-06,JAA,359,Glyoxylic acid,120,[mmol/L],4.44,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL359
+190,2023-06-06,JAA,360,Glyoxylic acid,140,[mmol/L],5.18,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,JAA_CAL360
+191,2023-06-14,JAA,361,Sucrose,2,[mmol/L],0.3423,Mergelstetten,CEM I 52.5N,,Sugar,JAA_CAL361
+192,2023-06-14,JAA,362,Sucrose,6,[mmol/L],1.0269,Mergelstetten,CEM I 52.5N,,Sugar,JAA_CAL362
+193,2023-06-14,JAA,363,Sucrose,10,[mmol/L],1.7115,Mergelstetten,CEM I 52.5N,,Sugar,JAA_CAL363
+194,2023-06-14,JAA,364,Sucrose,14,[mmol/L],2.3961,Mergelstetten,CEM I 52.5N,,Sugar,JAA_CAL364
+195,2023-06-14,JAA,365,L Tartaric acid,2,[mmol/L],0.15009,Mergelstetten,CEM I 52.5N,,alpha hydroxy carboxylic,JAA_CAL365
+196,2023-06-14,JAA,366,L Tartaric acid,6,[mmol/L],0.45027,Mergelstetten,CEM I 52.5N,,alpha hydroxy carboxylic,JAA_CAL366
+197,2023-06-14,JAA,367,L Tartaric acid,10,[mmol/L],0.75045,Mergelstetten,CEM I 52.5N,,alpha hydroxy carboxylic,JAA_CAL367
+198,2023-06-14,JAA,368,L Tartaric acid,14,[mmol/L],1.05063,Mergelstetten,CEM I 52.5N,,alpha hydroxy carboxylic,JAA_CAL368
+199,2023-06-15,JAA,369,Sucrose,2,[mmol/L],0.3423,Karlstadt,CEM I 52.5N,,Sugar,JAA_CAL369
+200,2023-06-15,JAA,370,Sucrose,6,[mmol/L],1.0269,Karlstadt,CEM I 52.5N,,Sugar,JAA_CAL370
+201,2023-06-15,JAA,371,Sucrose,10,[mmol/L],1.7115,Karlstadt,CEM I 52.5N,,Sugar,JAA_CAL371
+202,2023-06-15,JAA,372,Sucrose,14,[mmol/L],2.3961,Karlstadt,CEM I 52.5N,,Sugar,JAA_CAL372
+203,2023-06-15,JAA,373,L Tartaric acid,2,[mmol/L],0.15009,Karlstadt,CEM I 52.5N,,alpha hydroxy carboxylic,JAA_CAL373
+204,2023-06-15,JAA,374,L Tartaric acid,6,[mmol/L],0.45027,Karlstadt,CEM I 52.5N,,alpha hydroxy carboxylic,JAA_CAL374
+205,2023-06-15,JAA,375,L Tartaric acid,10,[mmol/L],0.75045,Karlstadt,CEM I 52.5N,,alpha hydroxy carboxylic,JAA_CAL375
+206,2023-06-15,JAA,376,L Tartaric acid,14,[mmol/L],1.05063,Karlstadt,CEM I 52.5N,,alpha hydroxy carboxylic,JAA_CAL376
+207,2023-06-26,LIX,017,Reference,0,[mmol/L],0.0,Hannover,CEM I 42.5R,,,LIX_CAL017
+208,2023-06-26,LIX,018,Reference,0,[mmol/L],0.0,Hannover,CEM I 42.5R,,,LIX_CAL018
+209,2023-06-26,LIX,019,Sucrose,1,[mmol/L],0.17115,Hannover,CEM I 42.5R,,Sugar,LIX_CAL019
+210,2023-06-26,LIX,020,Sucrose,2,[mmol/L],0.3423,Hannover,CEM I 42.5R,,Sugar,LIX_CAL020
+211,2023-06-26,LIX,021,Sucrose,4,[mmol/L],0.6846,Hannover,CEM I 42.5R,,Sugar,LIX_CAL021
+212,2023-06-26,LIX,022,Sucrose,6,[mmol/L],1.0269,Hannover,CEM I 42.5R,,Sugar,LIX_CAL022
+213,2023-06-26,LIX,023,Sucrose,8,[mmol/L],1.3692,Hannover,CEM I 42.5R,,Sugar,LIX_CAL023
+214,2023-06-26,LIX,024,Sucrose,10,[mmol/L],1.7115,Hannover,CEM I 42.5R,,Sugar,LIX_CAL024
+215,2023-06-27,LIX,025,Reference,0,[mmol/L],0.0,Hannover,CEM I 42.5R,,,LIX_CAL025
+216,2023-06-27,LIX,026,Reference,0,[mmol/L],0.0,Hannover,CEM I 42.5R,,,LIX_CAL026
+217,2023-06-27,LIX,027,L-Tartaric acid,1,[mmol/L],0.075045,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL027
+218,2023-06-27,LIX,028,L-Tartaric acid,2,[mmol/L],0.15009,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL028
+219,2023-06-27,LIX,029,L-Tartaric acid,4,[mmol/L],0.30018,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL029
+220,2023-06-27,LIX,030,L-Tartaric acid,6,[mmol/L],0.45027,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL030
+221,2023-06-27,LIX,031,L-Tartaric acid,8,[mmol/L],0.60036,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL031
+222,2023-06-27,LIX,032,L-Tartaric acid,10,[mmol/L],0.75045,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL032
+223,2023-07-04,LIX,033,L-Tartaric acid,20,[mmol/L],1.5009,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL033
+224,2023-07-04,LIX,034,L-Tartaric acid,30,[mmol/L],2.25135,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL034
+225,2023-07-04,LIX,035,L-Tartaric acid,40,[mmol/L],3.0018,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL035
+226,2023-07-04,LIX,036,L-Tartaric acid,50,[mmol/L],3.75225,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL036
+227,2023-07-04,LIX,037,L-Tartaric acid,60,[mmol/L],4.5027,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL037
+228,2023-07-04,LIX,038,L-Tartaric acid,70,[mmol/L],5.25315,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL038
+229,2023-07-04,LIX,039,L-Tartaric acid,80,[mmol/L],6.0036,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL039
+230,2023-07-04,LIX,040,L-Tartaric acid,90,[mmol/L],6.75405,Hannover,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL040
+231,2023-07-04,LIX,041,L-Tartaric acid,20,[mmol/L],13.5081,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL041
+232,2023-07-04,LIX,042,L-Tartaric acid,30,[mmol/L],20.26215,Bernburg,CEM I 42.5R,Falsch exportiert,alpha hydroxy carboxylic,LIX_CAL042
+233,2023-07-04,LIX,043,L-Tartaric acid,40,[mmol/L],27.0162,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL043
+234,2023-07-04,LIX,044,L-Tartaric acid,50,[mmol/L],33.77025,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL044
+235,2023-07-04,LIX,045,L-Tartaric acid,60,[mmol/L],40.5243,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL045
+236,2023-07-04,LIX,046,L-Tartaric acid,70,[mmol/L],47.27835,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL046
+237,2023-07-04,LIX,047,L-Tartaric acid,80,[mmol/L],54.0324,Bernburg,CEM I 42.5R,Falsch exportiert,alpha hydroxy carboxylic,LIX_CAL047
+238,2023-07-04,LIX,048,L-Tartaric acid,90,[mmol/L],60.78645,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL048
+239,2023-07-10,LIX,049,L-Tartaric acid,1,[mmol/L],0.075045,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL049
+240,2023-07-10,LIX,050,L-Tartaric acid,2,[mmol/L],0.15009,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL050
+241,2023-07-10,LIX,051,L-Tartaric acid,4,[mmol/L],0.30018,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL051
+242,2023-07-10,LIX,052,L-Tartaric acid,6,[mmol/L],0.45027,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL052
+243,2023-07-10,LIX,053,L-Tartaric acid,8,[mmol/L],0.60036,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL053
+244,2023-07-10,LIX,054,L-Tartaric acid,10,[mmol/L],0.75045,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL054
+245,2023-07-10,LIX,055,Reference,0,[mmol/L],0.0,Bernburg,CEM I 42.5R,,,LIX_CAL055
+246,2023-07-10,LIX,056,Reference,0,[mmol/L],0.0,Bernburg,CEM I 42.5R,,,LIX_CAL056
+247,2023-07-11,LIX,057,Sucrose,1,[mmol/L],0.17115,Bernburg,CEM I 42.5R,,Sugar,LIX_CAL057
+248,2023-07-11,LIX,058,Sucrose,2,[mmol/L],0.3423,Bernburg,CEM I 42.5R,,Sugar,LIX_CAL058
+249,2023-07-11,LIX,059,Sucrose,4,[mmol/L],0.6846,Bernburg,CEM I 42.5R,,Sugar,LIX_CAL059
+250,2023-07-11,LIX,060,Sucrose,6,[mmol/L],1.0269,Bernburg,CEM I 42.5R,,Sugar,LIX_CAL060
+251,2023-07-11,LIX,061,Sucrose,8,[mmol/L],1.3692,Bernburg,CEM I 42.5R,,Sugar,LIX_CAL061
+252,2023-07-11,LIX,062,Sucrose,10,[mmol/L],1.7115,Bernburg,CEM I 42.5R,,Sugar,LIX_CAL062
+253,2023-07-11,LIX,063,L-Tartaric acid,30,[mmol/L],0.0,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL063
+254,2023-07-11,LIX,064,L-Tartaric acid,80,[mmol/L],0.0,Bernburg,CEM I 42.5R,,alpha hydroxy carboxylic,LIX_CAL064
